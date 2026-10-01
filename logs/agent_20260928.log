@@ -1,0 +1,7 @@
+2026-09-28 15:00:27,036-agent-INFO-logger_handler.py:56-信息日志
+2026-09-28 15:00:27,036-agent-ERROR-logger_handler.py:57-错误日志
+2026-09-28 15:00:27,036-agent-WARNING-logger_handler.py:58-警告日志
+2026-09-28 15:00:27,036-agent-DEBUG-logger_handler.py:59-调试日志
+2026-09-28 20:30:01,992-agent-ERROR-prompt_loader.py:16-[load_system_prompts]解析系统提示词出错,[Errno 2] No such file or directory: 'D:\\develop\\PythonProject\\PythonProject\\AI_Agent_Case01\\prompts/main_prompt.txt'
+2026-09-28 20:32:01,892-agent-ERROR-prompt_loader.py:16-[load_system_prompts]解析系统提示词出错,[Errno 2] No such file or directory: 'D:\\develop\\PythonProject\\PythonProject\\AI_Agent_Case01\\prompts/main_prompt.txt.txt'
+2026-09-28 20:37:14,169-agent-ERROR-prompt_loader.py:16-[load_system_prompts]解析系统提示词出错,[Errno 2] No such file or directory: 'D:\\develop\\PythonProject\\PythonProject\\AI_Agent_Case01\\prompts/main_prompt.txt.txt'

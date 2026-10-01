@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bac4753b-6f2a-4bd2-8aa9-a74eee9ce902" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AI_Agent_Case01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/react_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/tools/agent_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/tools/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/agent.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/chroma.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/prompts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/rag.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/external/records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/扫地机器人100问.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/扫地机器人100问2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/扫拖一体机器人100问.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/故障排除.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/维护保养.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/选购指南.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/main_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/rag_summarize.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/report_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/rag_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/vector_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logger_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/path_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/prompt_loader.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JsX1xxCD7IuFvXCjVY8MHQqe5I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01[扩展]余弦相似度.executor": "Run",
+    "Python.01提示词优化案例_金融文本分类.executor": "Run",
+    "Python.01测试APIKEY的使用.executor": "Run",
+    "Python.02Json的基础使用.executor": "Run",
+    "Python.02LangChain方位阿里云通义千问大模型.executor": "Run",
+    "Python.02OpenAI库的基础使用.executor": "Run",
+    "Python.03OpenAI库的流式输出.executor": "Run",
+    "Python.03提示词优化案例_金融信息抽取.executor": "Run",
+    "Python.04.LangChain的流逝输出.executor": "Run",
+    "Python.04OpenAI库附带历史消息调用模型.executor": "Run",
+    "Python.04提示词优化案例_金融文本匹配判断.executor": "Run",
+    "Python.13ChatPromptTemplate的使用.executor": "Run",
+    "Python.23_02.面向对象基础案例_购物车系统.executor": "Run",
+    "Python.agent_tools.executor": "Run",
+    "Python.config_handler.executor": "Run",
+    "Python.logger_handler.executor": "Run",
+    "Python.path_tool.executor": "Run",
+    "Python.prompt_loader.executor": "Run",
+    "Python.rag_service.executor": "Run",
+    "Python.react_agent.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.vector_store.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/develop/PythonProject/PythonProject/AI_Agent_Case01",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\PythonProject\PythonProject\AI_Agent_Case01\data\external" />
+      <recent name="D:\develop\PythonProject\PythonProject\AI_Agent_Case01\prompts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\PythonProject\py_project01\Python基础使用\第一章+第二章" />
+      <recent name="D:\develop\PythonProject\PythonProject\AI_Agent_Case01\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.13ChatPromptTemplate的使用">
+    <configuration name="01.[扩展]余弦相似度" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_project01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P3_LangChainRAG开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="D:\develop\PythonProject\py_project01\AI大模型RAG与智能体开发\P3_LangChainRAG开发\01.[扩展]余弦相似度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.LangChain方位阿里云通义千问大模型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_project01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P3_LangChainRAG开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="D:\develop\PythonProject\py_project01\AI大模型RAG与智能体开发\P3_LangChainRAG开发\02.LangChain方位阿里云通义千问大模型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04提示词优化案例_金融文本匹配判断" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_project01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P2_提示词优化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P2_提示词优化/04提示词优化案例_金融文本匹配判断.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04.LangChain的流式输出" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_project01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P3_LangChainRAG开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="D:\develop\PythonProject\py_project01\AI大模型RAG与智能体开发\P3_LangChainRAG开发\04.LangChain的流式输出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13ChatPromptTemplate的使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_project01" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P3_LangChainRAG开发" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../py_project01/AI大模型RAG与智能体开发/P3_LangChainRAG开发/13ChatPromptTemplate的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.13ChatPromptTemplate的使用" />
+        <item itemvalue="Python.04.LangChain的流式输出" />
+        <item itemvalue="Python.02.LangChain方位阿里云通义千问大模型" />
+        <item itemvalue="Python.01.[扩展]余弦相似度" />
+        <item itemvalue="Python.04提示词优化案例_金融文本匹配判断" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bac4753b-6f2a-4bd2-8aa9-a74eee9ce902" name="更改" comment="" />
+      <created>1790450538173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790450538173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
